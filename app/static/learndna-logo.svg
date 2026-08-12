@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="64" viewBox="0 0 220 64" role="img" aria-label="LearnDNA">
+  <g fill="none" stroke="#121832" stroke-width="5" stroke-linecap="round">
+    <path d="M23 10c18 9 18 35 0 44M40 10c-18 9-18 35 0 44"/>
+    <path d="M22 17h19M19 26h25M19 36h25M22 46h19"/>
+  </g>
+  <text x="62" y="42" font-family="Arial, sans-serif" font-size="28" font-weight="800" letter-spacing="-1.5" fill="#121832">Learn</text>
+  <text x="138" y="42" font-family="Arial, sans-serif" font-size="28" font-weight="800" letter-spacing="-1.5" fill="#7046ff">DNA</text>
+</svg>
